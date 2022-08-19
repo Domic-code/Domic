@@ -150,6 +150,7 @@ a{
 .icon{
     color: var(--white);
     background-color: var(--primary-color);
+    padding: 1.25rem;
     width: 5rem;
     height: 5rem;
     font-size: 3rem;
